@@ -7,5 +7,16 @@
    </head>
    <body>
       <a href="javascript:DownloadAndRedirect()"> Click to download </a>
+      <script type="text/javascript">
+         function DownloadAndRedirect()
+         {
+            var DownloadURL = "/downloads/EQDietAlpha0.25.exe";
+            var RedirectURL = "https://eqdiet.weebly.com/downloads.html";
+            var RedirectPauseSeconds = 9;
+            location.href = DownloadURL;
+            setTimeout("DoTheRedirect('"+RedirectURL+"')",parseInt(RedirectPauseSeconds*1000));
+         }
+         function DoTheRedirect(url) { window.location=url; }
+      </script>
    </body>
 </html>
