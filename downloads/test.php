@@ -1,6 +1,6 @@
 <?php
 if(isset($_GET['file_name'])){
-  $download_path = '/downloads/' . $_GET['file_name'];
+  $download_path = '/downloads/' . $_GET['/downloads/EQDietAlpha0.25.exe'];
 } else {
   die("Please don't load this page directly!");
 }
