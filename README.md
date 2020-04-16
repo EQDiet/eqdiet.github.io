@@ -1,5 +1,5 @@
 # eqdiet.github.io
-EQDiet's downloads website
+EQDiet's Downloads website
 
 EQDiet's website for recovery and downloading.
 
