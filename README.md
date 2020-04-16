@@ -3,6 +3,6 @@ EQDiet's downloads website
 
 EQDiet's website for recovery and downloading.
 
-It will have all EQDiet binaries and docs.
+It has all EQDiet binaries and docs.
 
 ##### © 2020, EQDiet
