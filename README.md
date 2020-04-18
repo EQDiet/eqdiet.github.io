@@ -1,4 +1,4 @@
-# eqdiet.github.io
+# [eqdiet.github.io](https://eqdiet.github.io)
 EQDiet's Downloads website
 
 EQDiet's website for recovery and downloading.
