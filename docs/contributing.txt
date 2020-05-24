@@ -1,4 +1,4 @@
-How to contribute to EQDiet development
+How to contribute to EQDiet development (last update: 05/24/2020)
 
 Contributing to EQDiet development is really easy. Just follow these steps:
 
