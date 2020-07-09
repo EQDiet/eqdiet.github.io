@@ -1,8 +1,6 @@
 # [eqdiet.github.io](https://eqdiet.github.io)
-EQDiet's Downloads website
-
 EQDiet's website for recovery and downloading.
 
-It has all EQDiet binaries and docs.
+This website has all EQDiet's binaries and docs.
 
 ##### © 2020, EQDiet
