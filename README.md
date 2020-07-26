@@ -3,4 +3,4 @@ EQDiet's website for recovery and downloading.
 
 This website has all EQDiet's binaries and docs.
 
-##### © 2020, EQDiet
+**© 2020, EQDiet**

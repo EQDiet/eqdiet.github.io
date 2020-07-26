@@ -4,4 +4,4 @@ Here you can find some text files whith EQDiet's documentation, such as how to c
 
 Hope you enjoy them.
 
-##### © 2020, EQDiet
+**© 2020, EQDiet**
