@@ -1,4 +1,4 @@
-# EQDiet's documentation
+# [eqdiet.github.io](https://eqdiet.github.io) documentation
 Here you can find some text files whith EQDiet's documentation, such as how to colaborate.
 
 Hope you enjoy them.
