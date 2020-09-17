@@ -1,5 +1,7 @@
 How to contribute to EQDiet development (last update: 05/24/2020)
 
+-- ATTENTION: This are the global contribution instructions, but may vary in some repositories. Please see CONTRIBUTING.md file on the repositore you want to contribute to for more information --
+
 Contributing to EQDiet development is really easy. Just follow these steps:
 
 1. Dowload latest EQDiet source code.
